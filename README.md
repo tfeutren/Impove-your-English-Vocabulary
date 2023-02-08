@@ -1,4 +1,4 @@
-# Impove-your-English-Vocabulary
+# Improve-your-English-Vocabulary
 How to memorize vocabulary when you learn a language 
 
 ## Why ? 💡
