@@ -19,3 +19,6 @@ How to memorize vocabulary when you learn a language
 - You can use my body of code and you can customize it for you.
 - I should you that you can create your personal data.csv when you don't know a word and you think it can be useful to write in.
 - also you may customize the language
+
+
+![Alt text](https://github.com/tfeutren/Impove-your-English-Vocabulary/blob/main/terminal.png)
